@@ -1,4 +1,4 @@
-# Wet en regelgeving Tedeapolis
+# Wet en regelgeving Centrum
 
 ## Development
 
