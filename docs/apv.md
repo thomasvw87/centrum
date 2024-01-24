@@ -51,10 +51,10 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Centrum Roleplay, wordt hierb
 
 ### A4 - Aanvullende Wetten en regels
 
-1. Aanvullend op de APV is er het Wetboek Centrum Roleplay (WTDA), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Centrum Roleplay.
+1. Aanvullend op de APV is er het Wetboek Centrum Roleplay (WCentrum), waarin alle wetten, artikelen en bepalingen zijn opgenomen die gelden in Centrum Roleplay.
    * In dit Wetboek is opgenomen alle criminele feiten, de bijbehorende boetes, gevangenisstraffen enzovoorts.
 2. Dit Wetboek heeft, net als de APV, een basis in het Nederlands Recht.
-   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WTDA. Dan is deze leidend.
+   * Het Nederlands Recht is zodoende leidend, *tenzij* er een Wet of Bepaling is opgenomen in de WCentrum. Dan is deze leidend.
 3. Dit wetboek is, net als deze APV en conform de rechtsstaat, ten alle tijden openbaar.
 
 ## Overtredingen - Verstoring openbare orde (RP)
@@ -204,7 +204,7 @@ De overtreding beschreven in lid 1 staat bekend als “spam”
 ### Artikel 15 - Reporting
 
 1. Er wordt van mensen verwacht gebruik te maken van “/report” om overtredingen van regels te melden. Dit zodat de overtreder hiervan niet op de hoogte is en de eventuele roleplay hierdoor niet beïnvloed wordt.
-2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de TDA Discord.
+2. Bij een overtreding van de regel genoemd in lid 1 zal de persoon erop gewezen worden volgende keer gelieve “/report” te gebruiken of een ticket aan te maken in de Centrum Discord.
 3. Het is als je een report maakt niet de bedoeling om dit in game te melden aan mensen. Staff kiest zelf het moment om aan te geven dat zij aanwezig zijn en doen dit pas wanneer zij vinden dat zij genoeg hebben gezien. Aangeven dat er een report is gemaakt of dat Staff meekijkt zorgt er meestal voor dat er geen straffen kunnen worden uitgedeeld.
 4. Het overtreden van lid 3 zal resulteren in een straf volgens de 2e categorie.
 
@@ -604,7 +604,7 @@ Onderstaande regels tellen alleen op Narcopolis
 * Geen server/roleplay verstorend gedrag (Mic spammen, trollen etc).
 * Geen Metagaming (Gebruik maken van informatie wat jouw karakter niet kan weten en of andere discord kanalen dan de main discord).
 * Geen Overheidsvoertuigen stelen of kleding dragen.(Politie, ambulance en ANWB auto’s mogen niet door burgers gereden worden).
-* Geen Cop-baiting (politie uitdagen/uitlokken).
+* Geen Cop-baiting (politie uiCentrumgen/uitlokken).
 * Geen Spam (de chat vol spammen met nutteloze berichten)
 * Geen Combat Logging (Zomaar de server verlaten tijden bijvoorbeeld een ontvoering).
 * Niet overdreven schelden. (Geen Kanker en dergelijke, maakt niet uit of het bij je karakter hoort of niet. Hier wordt extra streng op gestraft.)
