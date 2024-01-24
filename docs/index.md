@@ -1,22 +1,22 @@
-# Wet- en Regelgeving SKY Roleplay
+# Wet- en Regelgeving Centrum Roleplay
 
-Welkom op de pagina voor de Wet- en Regelgeving van SKY Roleplay!
-In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op SKY Roleplay.
+Welkom op de pagina voor de Wet- en Regelgeving van Centrum Roleplay!
+In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Centrum Roleplay.
 
-Zorg ervoor, dat je voor je deelneemt aan SKY Roleplay's, kennis hebt genomen van deze wetten.
+Zorg ervoor, dat je voor je deelneemt aan Centrum Roleplay's, kennis hebt genomen van deze wetten.
 
 - De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").
-- Het Wetboek SKY Roleplay bevat alle wetten voor de burgers.
+- Het Wetboek Centrum Roleplay bevat alle wetten voor de burgers.
 - Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
 
 ## Officiële discord servers
 
-SKY Roleplay heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
+Centrum Roleplay heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
 
 | Server | Beschrijving | Invite link |
 |---|---|:---:|
-|SKY Roleplay RolePlay| Main discord server van SKY Roleplay | [Invite](https://discord.gg/skyrpnl) |
-|SKY Roleplay overheid| Overheids discord server van SKY Roleplay | [Invite](https://discord.gg/vruCYP9aHg) |
-|SKY Roleplay Cardealer| Cardealer discord server van SKY Roleplay | [Invite](https://discord.gg//2bBhTydaet) |
-|SKY Roleplay website| website van  SKY Roleplay | [website](https://www.skyroleplay.nl) |
-|Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van SKY Roleplay | [Invite](https://discord.gg/skyrpnl) |
+|Centrum Roleplay RolePlay| Main discord server van Centrum Roleplay | [Invite](https://discord.gg/9pSuJ3PfDQ) |
+|Centrum Roleplay overheid| Overheids discord server van Centrum Roleplay | [Invite](https://discord.gg/9pSuJ3PfDQ) |
+|Centrum Roleplay Onderwereld| onderwereld discord server van Centrum Roleplay | [Invite](https://discord.gg/EWczrXW3kQ) |
+|Centrum Roleplay website| website van  Centrum Roleplay | [website](https://www.centrumroleplay.nl) |
+|Ministerie van Vliegveld| Vliegveld van Centrum Roleplay | [Invite](https://discord.gg/EWunT8tN6R) |
