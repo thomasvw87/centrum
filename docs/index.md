@@ -19,4 +19,4 @@ Centrum Roleplay heeft verschillende discord servers die zijn goed gekeurd door 
 |Centrum Roleplay overheid| Overheids discord server van Centrum Roleplay | [Invite](https://discord.gg/9pSuJ3PfDQ) |
 |Centrum Roleplay Onderwereld| onderwereld discord server van Centrum Roleplay | [Invite](https://discord.gg/EWczrXW3kQ) |
 |Centrum Roleplay website| website van  Centrum Roleplay | [website](https://www.centrumroleplay.nl) |
-|Ministerie van Vliegveld| Vliegveld van Centrum Roleplay | [Invite](https://discord.gg/EWunT8tN6R) |
+|Centrum Roleplay Vliegveld| Vliegveld van Centrum Roleplay | [Invite](https://discord.gg/EWunT8tN6R) |
